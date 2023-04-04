@@ -1,0 +1,28 @@
+{
+  "name": "alx-files_manager",
+  "version": "1.0.0",
+  "description": "file manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Twhite2/alx-files_manager.git"
+  },
+  "author": "Twhite2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Twhite2/alx-files_manager/issues"
+  },
+  "homepage": "https://github.com/Twhite2/alx-files_manager#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "eslint": "^8.37.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
